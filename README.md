@@ -2,8 +2,6 @@
 Iris Flower Classification using machine learning-A logistic regression model that classifies iris flower into setosa, versicolor, and virginica using sepal and petal measurements.
 # Iris Flower Classification
 
-## QSkill Internship - Artificial Intelligence & Machine Learning
-
 ### Project Objective
 
 The objective of this project is to classify iris flowers into three species:
